@@ -1,5 +1,6 @@
-// -- Readme TXT --//
+// -- Readme --//
 
-Documento AYUDA sin informacion
+Repository Curso Desarrollo Web Integrado 
 
---------------------------------
+Temas, Archivos, Modelos, Paginas, Etc
+
