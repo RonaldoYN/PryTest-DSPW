@@ -20,8 +20,15 @@ SEDE CENTRAL	LAB B301	3	UtpCentral-LabB0301	Centr@Lpt116B301
 SEDE CENTRAL	LAB E502	5	UtpCentral-LabE0502	Centr@lPT116E502
 ______________________________________________________________
 
+Sesion 2 - DWI
+Modelo de Propuesta de Negocia (Basado en JaKarta EE/ Son 4 Niveles )
+1. Nivel Cliente
+2. Nivel Web
+3. Nivel Negocio
+4. Nivel Datos
+---------------------------------------------------------------------
 
-
+Nivel datos / MySql PostGress o SQL
 
 
 
